@@ -5,7 +5,7 @@
 
 ---
 
-## I’am on:
+## I’m on:
 
 - GitHub
 - [jerry-sky.me](https://jerry-sky.me)
