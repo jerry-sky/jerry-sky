@@ -5,7 +5,7 @@
 
 ---
 
-## I’m on:
+## I’m on
 
 - GitHub
 - [jerry-sky.me](https://jerry-sky.me)
@@ -15,15 +15,17 @@
 
 ---
 
-## Some of my projects:
+## Some of my projects
 
-[<img align=center src="https://github-readme-stats.vercel.app/api/pin/?username=jerry-sky&repo=personal-notebook&theme=dark&hide_border=true"/>](https://github.com/jerry-sky/personal-notebook#readme)
+[<img align=center src="https://github-readme-stats.vercel.app/api/pin/?username=jerry-sky&repo=personal-notebook&theme=dark&hide_border=true"/>](https://personal.jerry-sky.me)
 
-[<img align=center src="https://github-readme-stats.vercel.app/api/pin/?username=jerry-sky&repo=academic-notebook&theme=dark&hide_border=true"/>](https://github.com/jerry-sky/academic-notebook#readme)
+[<img align=center src="https://github-readme-stats.vercel.app/api/pin/?username=jerry-sky&repo=academic-notebook&theme=dark&hide_border=true"/>](https://academic.jerry-sky.me)
+
+[<img algin=center src="https://github-readme-stats.vercel.app/api/pin/?username=jerry-sky&repo=vyrow&theme=dark&hide_border=true"/>](https://github.com/marketplace/actions/vyrow)
 
 ---
 
-## Some statistics about me:
+## Some statistics about me
 
 [![Overall GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry-sky&hide=stars&count_private=true&show_icons=true&theme=dark&hide_border=true)](https://github.com/jerry-sky?tab=repositories)
 
