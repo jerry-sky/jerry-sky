@@ -12,6 +12,7 @@
 - [WakaTime — @jerry_sky](https://wakatime.com/@jerry_sky)
 - [YouTube — Jerry Sky](https://www.youtube.com/channel/UCU3CxcihDdt75fV5jeODOEQ)
 - [Twitter — @JerrySky27](https://twitter.com/home)
+- [LinkedIn — Jerzy Wroczyński](https://www.linkedin.com/in/jerzy-wroczy%C5%84ski-bb0333205/)
 
 ---
 
