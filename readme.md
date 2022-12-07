@@ -1,7 +1,9 @@
 # Jerry Sky
-###### *a.k.a. jwroczynski*
 
-*[Computer Science](https://cs.pwr.edu.pl/index.php?lang=eng) student at [WUST](https://pwr.edu.pl/en/)*
+*(a.k.a. jwroczynski)*
+
+
+***DevOps and Software Engineer at [Archdesk](https://archdesk.com)***
 
 ---
 
@@ -16,18 +18,18 @@
 
 ---
 
-## Some of my projects
+## Projects
 
-[<img align=center alt="Personal Notebook" src="https://github-readme-stats.vercel.app/api/pin/?username=jerry-sky&repo=personal-notebook&theme=dark&hide_border=true"/>](https://personal.jerry-sky.me)
-[<img align=center alt="Academic Notebook" src="https://github-readme-stats.vercel.app/api/pin/?username=jerry-sky&repo=academic-notebook&theme=dark&hide_border=true"/>](https://academic.jerry-sky.me)
-[<img align=center alt="VYROW GH Action" src="https://github-readme-stats.vercel.app/api/pin/?username=jerry-sky&repo=vyrow&theme=dark&hide_border=true"/>](https://github.com/marketplace/actions/vyrow)
+[<img align=center alt="Personal Notebook" src="https://github-readme-stats.vercel.app/api/pin/?username=jerry-sky&repo=personal-notebook&theme=dark&hide_border=true"/>](https://github.com/jerry-sky/personal-notebook)
+[<img align=center alt="Academic Notebook" src="https://github-readme-stats.vercel.app/api/pin/?username=jerry-sky&repo=academic-notebook&theme=dark&hide_border=true"/>](https://github.com/jerry-sky/academic-notebook)
 
 ---
 
-## Some statistics about me
+## Stats
+
+[<img alt="WakaTime badge" src="https://wakatime.com/badge/user/a2607d57-f3d3-4992-b096-c64429375279.svg"/>](https://wakatime.com/@jerry_sky)
 
 [<img align=center alt="Overall GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jerry-sky&hide=stars&count_private=true&show_icons=true&theme=dark&hide_border=true"/>](https://github.com/jerry-sky?tab=repositories)
 [<img align=center alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-sky&layout=compact&theme=dark&hide_border=true&exclude_repo=python-unity-ai&count_private=true&langs_count=10"/>](https://github.com/jerry-sky?tab=repositories)
-[<img align=center alt="WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=jerry_sky&layout=compact&theme=dark&hide_border=true"/>](https://wakatime.com/@jerry_sky)
 
 ---
